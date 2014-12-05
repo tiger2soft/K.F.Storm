@@ -2,6 +2,7 @@ K.F.Storm
 =========
 
 K.F.Storm豆瓣FM，因作者Blog已挂，将源码挂上来，希望能把这个优秀的项目延续下去
+<a href="http://doubanfmcloud.sinaapp.com/publish/doubanfm.application"><big>最新版下载</big></a>
 
 以下是作者原Blog的介绍
 =========

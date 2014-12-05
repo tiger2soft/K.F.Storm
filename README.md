@@ -18,7 +18,7 @@ Windows XP或更高版本的系统，需要.NET Framework 4.0或4.5。
 *点击这里下载.NET Framework 4.5。（XP用户请点这里下载.NET Framework 4.0。）
 
 
-#[立即使用][10]#
+<a href="http://doubanfmcloud.sinaapp.com/publish/doubanfm.application"><big>立即使用</big></a>
 
 ##功能说明##
 
